@@ -17,7 +17,7 @@ _ Create accurate regressor models with DecisionTrees or KNeighboorsRegressor th
 
 -*Español*-
 
-# Proyecto 1 / Modelos Regresores con Arboles de Decision(DTR) - ACAMICA
+# Proyecto 1 / Modelos Regresores con KVecinosRegresores (KNR) - ACAMICA
 
 ## Proyecto Modelos Regresores por Milton de Marte (05/05/2020-20/06/2020)
 
