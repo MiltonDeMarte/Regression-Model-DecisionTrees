@@ -1,4 +1,4 @@
--*English*-
+-**English**-
 
 # Proyect 1 / Regression Models with KNeighboorsRegressor (KNR) - ACAMICA
 
@@ -19,9 +19,11 @@ _ Evaluate models with aproppiate metrics and ehance the results of the evaluati
 _ Re-evaluate models, study results and errors to pick the best of them.
 
 
+-
 
 
--*Español*-
+
+-**Español**-
 
 # Proyecto 1 / Modelos Regresores con KVecinosRegresores (KNR) - ACAMICA
 
