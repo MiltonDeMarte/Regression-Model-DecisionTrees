@@ -1,8 +1,8 @@
 -*English*-
 
-# Regression Models Proyect by Milton De Marte (05/05/2020 - 20/06/2020)
+# Proyect 1 / Regression Models with KNeighboorsRegressor (KNR) - ACAMICA
 
-## Proyect 1 / Regression Models with KNeighboorsRegressor (KNR) - ACAMICA
+## Regression Models Proyect by Milton De Marte (05/05/2020 - 20/06/2020)
 
 #### ¡It's very important first tu decompress the .RAR file before anything in order for everything to work fine!
 
@@ -17,9 +17,9 @@ _ Create accurate regressor models with DecisionTrees or KNeighboorsRegressor th
 
 -*Español*-
 
-# Proyecto Modelos Regresores por Milton de Marte (05/05/2020-20/06/2020)
+# Proyecto 1 / Modelos Regresores con Arboles de Decision(DTR) - ACAMICA
 
-## Proyecto 1 / Modelos Regresores con Arboles de Decision(DTR) - ACAMICA
+## Proyecto Modelos Regresores por Milton de Marte (05/05/2020-20/06/2020)
 
 #### ¡Es muy importante, primero que nada, descomprimir el archivo RAR. Asi se podra ejecutar todo el NB sin problemas!
 
