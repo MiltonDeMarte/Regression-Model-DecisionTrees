@@ -1,5 +1,3 @@
--**English**-
-
 # Proyect 1 / Regression Models with KNeighboorsRegressor (KNR) - ACAMICA
 
 ## Regression Models Proyect by Milton De Marte (05/05/2020 - 20/06/2020)
@@ -19,11 +17,9 @@ _ Evaluate models with aproppiate metrics and ehance the results of the evaluati
 _ Re-evaluate models, study results and errors to pick the best of them.
 
 
--
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
-
--**Español**-
 
 # Proyecto 1 / Modelos Regresores con KVecinosRegresores (KNR) - ACAMICA
 
