@@ -1,4 +1,4 @@
-*English*
+-*English*-
 
 # Regression Models Proyect by Milton De Marte (05/05/2020 - 20/06/2020)
 
@@ -14,7 +14,8 @@ _ Create accurate regressor models with DecisionTrees or KNeighboorsRegressor th
 
 
 
-*Español*
+
+-*Español*-
 
 # Proyecto Modelos Regresores por Milton de Marte (05/05/2020-20/06/2020)
 
